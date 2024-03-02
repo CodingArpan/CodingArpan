@@ -30,7 +30,7 @@
 ### ✨Contribution Graph
 
 >![Arpan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codingarpan&bg_color=transparent&color=a364ff&line=6c35de&point=FF9843&area=true&hide_border=true)
-><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=000000&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=true&&card_width=600"/></p>
+><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingarpan&layout=compact&bg_color=000000&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=true&&card_width=600"/></p>
 
 ### 🏅My Top Projects
 <p align="center">
