@@ -2,12 +2,12 @@
 
 
 <h1 align="center">🔥Full stack Web Developer🏅</h1>
-<a href="https://www.codingarpan.tech" align="center">
+<a href="https://www.codingarpan.tech" target="_blank">
 <h4 align="center">
 🌐www.codingarpan.tech
 </h4>
 </a>
-<a href="mailto:contact.codingarpan@gmail.com" align="center">
+<a href="mailto:contact.codingarpan@gmail.com" target="_blank">
 <h4 align="center">
 📧contact.codingarpan@gmail.com
 </h4>
@@ -42,7 +42,7 @@
 
 
 ## I use
-> [!TIP] Frontend Technology
+####  Frontend Technology
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -50,19 +50,19 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 
-> [!TIP] Backend Technology
+####  Backend Technology
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 
 
 
-> [!TIP] Database
+####  Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
-> [!TIP] Devops Technology
+####  Devops Technology
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
