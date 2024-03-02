@@ -38,7 +38,7 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=codingarpan&repo=Profit_Calculator&show_icons=true&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=false&bg_color=60,8364e8,d397fa" alt="readme-typing-svg"/>
 </p>
 <p align="center">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/codingarpan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🎗️Skills
