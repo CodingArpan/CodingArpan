@@ -1,17 +1,10 @@
+<h1 align="center">🔥Full stack Web Developer🏅</h1>
+
 ![Arpan Das | CodingArpan](/assets/images/headerimage.svg)
 
-
-<h1 align="center">🔥Full stack Web Developer🏅</h1>
-<a href="https://www.codingarpan.tech" target="_blank">
-<h4 align="center">
-🌐www.codingarpan.tech
-</h4>
-</a>
-<a href="mailto:contact.codingarpan@gmail.com" target="_blank">
-<h4 align="center">
-📧contact.codingarpan@gmail.com
-</h4>
-</a>
+```
+www.codingarpan.tech
+```
 
 ### 🧑‍💻About Me
 > Hello I'm ARPAN DAS from India, a Experienced Full Stack Developer Proficient In Both Front-End And Back-End Technologies, Passionate About Crafting Robust And Scalable Web Applications, With A Keen Eye For User Experience. A Problem Solver Dedicated To Delivering Innovative And Efficient Solutions. 
@@ -26,6 +19,10 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
+
+```
+📧contact.codingarpan@gmail.com
+```
 
 ### ✨Contribution Graph
 
@@ -86,3 +83,7 @@
     <br>
     <img width="1000"  src="https://streak-stats.demolab.com?user=codingarpan&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D" alt="readme-typing-svg"/>
 </p>
+
+
+
+
