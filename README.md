@@ -1,4 +1,4 @@
-<h1 align="center">🔥Full stack Web Developer🏅</h1>
+<h1 align="center">🔥Fullstack Web Developer🏅</h1>
 
 ![Arpan Das | CodingArpan](/assets/images/headerimage.svg)
 
