@@ -1,6 +1,6 @@
 <h1 align="center">🔥Fullstack Web Developer🏅</h1>
 
-![Arpan Das | CodingArpan](/assets/images/headerimage.svg)
+![Arpan Das | CodingArpan](/assets/images/headerimage.webp)
 
 ```
 www.codingarpan.tech
