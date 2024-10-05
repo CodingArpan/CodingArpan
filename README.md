@@ -6,10 +6,10 @@
 www.codingarpan.tech
 ```
 
-### 🧑‍💻About Me
+## 🧑‍💻About Me
 > Hello I'm ARPAN DAS from India, a Experienced Full Stack Developer Proficient In Both Front-End And Back-End Technologies, Passionate About Crafting Robust And Scalable Web Applications, With A Keen Eye For User Experience. A Problem Solver Dedicated To Delivering Innovative And Efficient Solutions. 
 
-### 🤝Connect With Me
+## 🤝Connect With Me
 
 <p align="left">
  <a href="https://linkedin.com/in/codingarpan" target="_blank">
@@ -24,12 +24,12 @@ www.codingarpan.tech
 📧contact.codingarpan@gmail.com
 ```
 
-### ✨Contribution Graph
+## ✨Contribution Graph
 
 >![Arpan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codingarpan&bg_color=transparent&color=a364ff&line=6c35de&point=FF9843&area=true&hide_border=true)
 ><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingarpan&layout=compact&bg_color=000000&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=true&&card_width=600"/></p>
 
-### 🏅My Top Projects
+## 🏅My Top Projects
 <p align="center">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=codingarpan&repo=CutifyURL&show_icons=true&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=false&bg_color=60,8364e8,d397fa" alt="readme-typing-svg"/>
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=codingarpan&repo=Profit_Calculator&show_icons=true&title_color=ffffff&text_color=D9D9D9&icon_color=ffffff&border_color=ffffff&hide_border=false&bg_color=60,8364e8,d397fa" alt="readme-typing-svg"/>
