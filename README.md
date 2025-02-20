@@ -3,7 +3,7 @@
 ![Arpan Das | CodingArpan](/assets/images/headerimage.webp)
 ## Portfolio Website
 ```
-www.codingarpan.tech
+www.codingarpan.com
 ```
 
 ## 🧑‍💻About Me
