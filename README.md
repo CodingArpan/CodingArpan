@@ -21,7 +21,7 @@ www.codingarpan.com
 </p>
 
 ```
-📧contact.codingarpan@gmail.com
+📧hello@codingarpan.com
 ```
 
 ## ✨Contribution Graph
